@@ -1,4 +1,5 @@
-# CoinPliot-
+# CoinPliot
+Link:- https://coinpilot-live-crypto-tracker.netlify.app/
 CRYPTOCURRENCY LIVE TRACKER # 🚀 CoinPilot — Live Crypto Tracker
 CoinPilot is an educational web development project created to explore cryptocurrency market data, API integration, and interactive dashboard development.
 The project uses the **CoinGecko API** to display cryptocurrency prices, market statistics, and price-performance data in a simple and user-friendly interface.
@@ -29,6 +30,15 @@ This project was developed for **educational purposes** to gain practical experi
 - **JavaScript** — Functionality and dynamic data
 - **CoinGecko API** — Cryptocurrency market data
 
+  ## 📸 Screenshots
+### Dashboard View
+View live cryptocurrency prices, market cap, volume, and rankings at a glance.
+![Dashboard](Coinpliot%20Dashboard.png)
+### Comparison View
+Compare multiple cryptocurrencies side-by-side across key metrics.
+![Compare](Coinpliot%20Compare.png)
+![Compare 2](Coinpliot%20Compare%281%29.png)
+
 ## 📚 What I Learned
 Through this project, I gained practical experience with:
 - REST API integration
@@ -47,7 +57,8 @@ B.Com FinTech Student
 ⭐ This project was created as part of my learning journey in FinTech, Data Analytics, and Web Development.
 
 ⚠️ Disclaimer
-This project is created strictly for educational and learning purposes.
-The cryptocurrency information displayed is intended for demonstration and learning only. It should not be considered financial advice or used for investment decisions.
+This project was created strictly for educational and learning purposes.
+The cryptocurrency information displayed is intended for demonstration and learning only. 
+It should not be considered financial advice or used for investment decisions.
 
-Link:- https://coinpilot-live-crypto-tracker.netlify.app/
+
